@@ -6,3 +6,4 @@
 - 🤔 Procuro novos conhecimentos nesse universo de programação 
 - ⚡ No meu tempo livre, gosto de assistir filmes e series, principalmente de ficção cientifica.
 - 💬 Pergunte algo...
+ https://github-readme-stats.vercel.app/api?username=JoseJacsan&theme=dracula&show_icons=true
